@@ -1,0 +1,431 @@
+﻿Log file open, 10/23/18 16:30:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Binoculars
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.106s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 660
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.23-11.00.23:052][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-11.00.23:052][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.23-11.00.23:063][  0]LogHAL: Display: Platform has ~ 8 GB [8531214336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.23-11.00.23:063][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.23-11.00.23:063][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.23-11.00.23:064][  0]LogInit: Computer: ROHIT-PC
+[2018.10.23-11.00.23:064][  0]LogInit: User: Rohit
+[2018.10.23-11.00.23:064][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.23-11.00.23:064][  0]LogInit: High frequency timer resolution =3.027353 MHz
+[2018.10.23-11.00.23:064][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.23-11.00.23:064][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.23-11.00.23:064][  0]LogMemory: Process Physical Memory: 98.96 MB used, 98.96 MB peak
+[2018.10.23-11.00.23:064][  0]LogMemory: Process Virtual Memory: 82.71 MB used, 82.71 MB peak
+[2018.10.23-11.00.23:064][  0]LogMemory: Physical Memory: 3049.65 MB used,  5086.35 MB free, 8136.00 MB total
+[2018.10.23-11.00.23:064][  0]LogMemory: Virtual Memory: 4623.52 MB used,  5086.35 MB free, 134217728.00 MB total
+[2018.10.23-11.00.23:083][  0]LogInit: Using OS detected language (en-US).
+[2018.10.23-11.00.23:083][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.23-11.00.23:084][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.23-11.00.23:508][  0]LogStreaming: Display: Took  0.424s to InitEngineTextLocalization.
+[2018.10.23-11.00.23:508][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.23-11.00.23:534][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.23-11.00.23:534][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.23-11.00.23:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-11.00.23:732][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.23-11.00.23:786][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.10.23-11.00.23:786][  0]LogD3D11RHI:       1998/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.23-11.00.23:788][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.23-11.00.23:788][  0]LogD3D11RHI:       0/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.23-11.00.23:788][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.23-11.00.23:793][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.23-11.00.23:793][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.23-11.00.23:793][  0]LogWindows: EnumDisplayDevices:
+[2018.10.23-11.00.23:793][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.10.23-11.00.23:793][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.10.23-11.00.23:793][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.10.23-11.00.23:794][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.10.23-11.00.23:794][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.23-11.00.23:794][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.10.23-11.00.23:794][  0]LogD3D11RHI:   Driver Version: 411.63 (internal:24.21.14.1163, unified:411.63)
+[2018.10.23-11.00.23:794][  0]LogD3D11RHI:      Driver Date: 9-18-2018
+[2018.10.23-11.00.23:794][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2018.10.23-11.00.23:831][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.23-11.00.23:848][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.23-11.00.23:849][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (F:/GitHubProjects/UnrealEngine--Binoculars/Intermediate/Shaders/WorkingDirectory/8976/).
+[2018.10.23-11.00.23:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rohit/AppData/Local/Temp/UnrealShaderWorkingDir/C28E4FDF48527A7E452A2387D5027C03/'.
+[2018.10.23-11.00.24:127][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.23-11.00.24:142][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.23-11.00.24:157][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.23-11.00.24:172][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.23-11.00.24:187][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.23-11.00.24:203][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.23-11.00.24:219][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.23-11.00.24:234][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.23-11.00.24:243][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:333][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.23-11.00.24:397][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-11.00.24:397][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-11.00.24:423][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-11.00.24:423][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-11.00.24:437][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.23-11.00.24:451][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.23-11.00.24:465][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.23-11.00.24:480][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.23-11.00.24:490][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.23-11.00.24:490][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.23-11.00.24:554][  0]LogXGEController: Cleaning working directory: C:/Users/Rohit/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.23-11.00.24:554][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.23-11.00.24:554][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.23-11.00.24:554][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.23-11.00.25:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Loaded boot cache 0.06s 84MB C:/Users/Rohit/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rohit/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/GitHubProjects/UnrealEngine--Binoculars/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/GitHubProjects/UnrealEngine--Binoculars/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.23-11.00.25:477][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.23-11.00.25:489][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rohit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.23-11.00.25:489][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.23-11.00.25:489][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.23-11.00.25:510][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.23-11.00.25:511][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.23-11.00.25:512][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.23-11.00.25:592][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.10.23-11.00.25:932][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-11.00.26:072][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.23-11.00.26:076][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.23-11.00.26:076][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.23-11.00.26:077][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.23-11.00.26:077][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.23-11.00.26:090][  0]LogNetVersion: Binoculars 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1811557926)
+[2018.10.23-11.00.26:576][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090252 seconds
+[2018.10.23-11.00.26:582][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.23-11.00.26:583][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.23-11.00.26:583][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.23-11.00.27:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.23-11.00.27:527][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.23-11.00.27:673][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:673][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:674][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:675][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:837][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.23-11.00.27:877][  0]LogOcInput: OculusInput pre-init called
+[2018.10.23-11.00.27:941][  0]LogEngine: Initializing Engine...
+[2018.10.23-11.00.27:942][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-11.00.27:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.23-11.00.27:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-11.00.27:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.23-11.00.27:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-11.00.28:167][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.23-11.00.28:182][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.23-11.00.28:194][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.23-11.00.28:211][  0]LogInit: FAudioDevice initialized.
+[2018.10.23-11.00.28:211][  0]LogNetVersion: Set ProjectVersion to 1.0. Version Checksum will be recalculated on next use.
+[2018.10.23-11.00.28:282][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Rohit/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.23-11.00.28:295][  0]LogInit: Texture streaming: Enabled
+[2018.10.23-11.00.28:313][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.23-11.00.28:329][  0]LogInit: Transaction tracking system initialized
+[2018.10.23-11.00.28:353][  0]BlueprintLog: New page: Editor Load
+[2018.10.23-11.00.28:436][  0]LocalizationService: Localization service is disabled
+[2018.10.23-11.00.28:707][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.23-11.00.28:707][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.23-11.00.28:707][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-11.00.28:835][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/' took 0.01s
+[2018.10.23-11.00.28:835][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.28:835][  0]Cmd: MAP LOAD FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-11.00.28:835][  0]LightingResults: New page: Lighting Build
+[2018.10.23-11.00.28:838][  0]MapCheck: New page: Map Check
+[2018.10.23-11.00.28:838][  0]LightingResults: New page: Lighting Build
+[2018.10.23-11.00.29:283][  0]LogAIModule: Creating AISystem for world Map_TechDemo
+[2018.10.23-11.00.29:295][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-11.00.29:319][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-11.00.29:394][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.596ms to complete.
+[2018.10.23-11.00.29:394][  0]LogFileHelpers: Loading map 'Map_TechDemo' took 0.558
+[2018.10.23-11.00.29:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:506][  0]LogCollectionManager: Loaded 0 collections in 0.002874 seconds
+[2018.10.23-11.00.29:565][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Collections/' took 0.01s
+[2018.10.23-11.00.29:565][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Developers/Rohit/Collections/' took 0.01s
+[2018.10.23-11.00.29:565][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Collections/' took 0.01s
+[2018.10.23-11.00.29:565][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.23-11.00.29:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2572 classes and 603 folders.
+[2018.10.23-11.00.29:582][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.23-11.00.29:640][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.23-11.00.29:644][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.23-11.00.29:722][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.23-11.00.29:724][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.23-11.00.29:730][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.23-11.00.29:812][  0]LogRenderer: Reallocating scene render targets to support 1144x536 Format 10 NumSamples 1 (Frame:1).
+[2018.10.23-11.00.29:943][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.23-11.00.29:943][  0]LogLoad: (Engine Initialization) Total time: 8.33 seconds
+[2018.10.23-11.00.29:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.23-11.00.29:988][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.23-11.00.30:001][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-11.00.30:021][  1]LogAssetRegistry: Asset discovery search completed in 4.4520 seconds
+[2018.10.23-11.00.30:023][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.23-11.00.30:023][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.10.23-11.00.31:491][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-11.00.36:249][667]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-11.00.36:255][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Binoculars/BPC_TagWidget.BPC_TagWidget
+[2018.10.23-11.00.36:710][667]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.23-11.00.37:454][667]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.23-11.00.37:583][668]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.23-11.01.13:570][789]LogSlate: Window 'BPC_TagWidget' being destroyed
+[2018.10.23-11.01.15:449][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Binoculars/BP_Binoculars.BP_Binoculars
+[2018.10.23-11.01.19:602][453]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Interfaces/BPI_CameraControl.BPI_CameraControl
+[2018.10.23-11.01.30:759][725]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/TestAgents/BP_GuardAI.BP_GuardAI
+[2018.10.23-11.01.33:144][922]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.10.23-11.10.19:115][528]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.10.19:196][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:197][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:216][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:217][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:408][543]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlABE843DB442764475C5307B5857930CF.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.10.26:106][330]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.10.26:611][331]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter28A774554DD1E8277508E88D5CF8C187.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.10.37:185][585]LogSlate: Took 0.005268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.23-11.10.44:375][437]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.10.44:468][437]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_6:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.10.44:469][437]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.10.44:629][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:629][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:645][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:645][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:783][440]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlA2C102974D385D7D857FF1BAF0807EB3.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.10.47:908][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.10.48:143][782]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemoD1CE1EE640800CB0D812A6A3C35D2E8A.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.10.48:168][782]LogFileHelpers: Saving map 'Map_TechDemo' took 0.347
+[2018.10.23-11.10.48:253][782]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter073034ED4D5A178C189915B48A82EFF1.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.10.51:875][213]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.10.52:518][245]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter8878CB644B6C0FE25669338E32CCCF2B.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.10.57:520][840]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.10.57:572][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:573][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:588][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:589][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:816][862]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlF3268ADE45B568B4C3CFE996C944065C.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.06:998][946]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.11.07:058][946]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] Interface ' RetrieveCameraComponent ' is already implemented as a function graph but is expected as an event. Remove the function graph and reimplement as an event.
+[2018.10.23-11.11.07:081][946]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] [0645.47] Compile of BP_PlayerCharacter successful, but with 1 Warning(s) [in 81 ms] (/Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter)
+[2018.10.23-11.11.07:085][946]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.11.07:239][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.07:248][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.07:369][956]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlED104C9C48331E640C1EBE9FB6E43ABF.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.10:749][360]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.11.10:835][360]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.11.10:988][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.10:996][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.11:065][364]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlDA50156B44DD674A8B2559B50B8A61A0.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.12:418][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.11.12:621][510]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemo8AF0786249BA0AB49ECB1EAF91793431.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.11.12:637][510]LogFileHelpers: Saving map 'Map_TechDemo' took 0.305
+[2018.10.23-11.11.12:756][510]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterFB6216CF48323A9FBB7D2B990BB84E9C.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.11.21:739][515]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.574 s
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: 
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2364]
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: Graph RetrieveCameraComponent already exists: EdGraph /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter:RetrieveCameraComponent
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: Stack: 
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff556671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff553a0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff553bb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50adaad4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50ad484c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50ad34c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4c6e017a UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4c6de7cf UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4c6dd83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50b2fe83 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50b047eb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4f39a832 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4db62fc9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4db41be6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4dafb8df UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54e89c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54c794c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54d11db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54cf7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54ceb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff7323d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff73230270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff7323f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff7322c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff95626cc1 USER32.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff95626693 USER32.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff73240646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b35b3c UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b35bba UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b43dac UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b45aaa UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff94c43034 KERNEL32.DLL!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff95c71461 ntdll.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: 
+[2018.10.23-11.11.21:740][515]LogStats:                SubmitErrorReport -  0.000 s

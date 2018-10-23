@@ -1,0 +1,1026 @@
+﻿Log file open, 10/23/18 16:30:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Binoculars
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.106s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 660
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.23-11.00.23:052][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-11.00.23:052][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.23-11.00.23:063][  0]LogHAL: Display: Platform has ~ 8 GB [8531214336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.23-11.00.23:063][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.23-11.00.23:063][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.23-11.00.23:064][  0]LogInit: Computer: ROHIT-PC
+[2018.10.23-11.00.23:064][  0]LogInit: User: Rohit
+[2018.10.23-11.00.23:064][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.23-11.00.23:064][  0]LogInit: High frequency timer resolution =3.027353 MHz
+[2018.10.23-11.00.23:064][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.23-11.00.23:064][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.23-11.00.23:064][  0]LogMemory: Process Physical Memory: 98.96 MB used, 98.96 MB peak
+[2018.10.23-11.00.23:064][  0]LogMemory: Process Virtual Memory: 82.71 MB used, 82.71 MB peak
+[2018.10.23-11.00.23:064][  0]LogMemory: Physical Memory: 3049.65 MB used,  5086.35 MB free, 8136.00 MB total
+[2018.10.23-11.00.23:064][  0]LogMemory: Virtual Memory: 4623.52 MB used,  5086.35 MB free, 134217728.00 MB total
+[2018.10.23-11.00.23:083][  0]LogInit: Using OS detected language (en-US).
+[2018.10.23-11.00.23:083][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.23-11.00.23:084][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.23-11.00.23:508][  0]LogStreaming: Display: Took  0.424s to InitEngineTextLocalization.
+[2018.10.23-11.00.23:508][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.23-11.00.23:534][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.23-11.00.23:534][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.23-11.00.23:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-11.00.23:732][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.23-11.00.23:786][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.10.23-11.00.23:786][  0]LogD3D11RHI:       1998/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.23-11.00.23:788][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.23-11.00.23:788][  0]LogD3D11RHI:       0/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.23-11.00.23:788][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.23-11.00.23:793][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.23-11.00.23:793][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.23-11.00.23:793][  0]LogWindows: EnumDisplayDevices:
+[2018.10.23-11.00.23:793][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.10.23-11.00.23:793][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.10.23-11.00.23:793][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.10.23-11.00.23:794][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.10.23-11.00.23:794][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.23-11.00.23:794][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.10.23-11.00.23:794][  0]LogD3D11RHI:   Driver Version: 411.63 (internal:24.21.14.1163, unified:411.63)
+[2018.10.23-11.00.23:794][  0]LogD3D11RHI:      Driver Date: 9-18-2018
+[2018.10.23-11.00.23:794][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2018.10.23-11.00.23:831][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.23-11.00.23:848][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.23-11.00.23:849][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (F:/GitHubProjects/UnrealEngine--Binoculars/Intermediate/Shaders/WorkingDirectory/8976/).
+[2018.10.23-11.00.23:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rohit/AppData/Local/Temp/UnrealShaderWorkingDir/C28E4FDF48527A7E452A2387D5027C03/'.
+[2018.10.23-11.00.24:127][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.23-11.00.24:142][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.23-11.00.24:157][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.23-11.00.24:172][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.23-11.00.24:187][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.23-11.00.24:203][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.23-11.00.24:219][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.23-11.00.24:234][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.23-11.00.24:243][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-11.00.24:333][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.23-11.00.24:397][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-11.00.24:397][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-11.00.24:423][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-11.00.24:423][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-11.00.24:437][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.23-11.00.24:451][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.23-11.00.24:465][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.23-11.00.24:480][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.23-11.00.24:490][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.23-11.00.24:490][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.23-11.00.24:554][  0]LogXGEController: Cleaning working directory: C:/Users/Rohit/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.23-11.00.24:554][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.23-11.00.24:554][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.23-11.00.24:554][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.23-11.00.25:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Loaded boot cache 0.06s 84MB C:/Users/Rohit/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rohit/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/GitHubProjects/UnrealEngine--Binoculars/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/GitHubProjects/UnrealEngine--Binoculars/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.23-11.00.25:463][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.23-11.00.25:477][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.23-11.00.25:489][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rohit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.23-11.00.25:489][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.23-11.00.25:489][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.23-11.00.25:510][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.23-11.00.25:511][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.23-11.00.25:512][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.23-11.00.25:592][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.10.23-11.00.25:932][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-11.00.26:072][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.23-11.00.26:076][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.23-11.00.26:076][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.23-11.00.26:077][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.23-11.00.26:077][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.23-11.00.26:090][  0]LogNetVersion: Binoculars 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1811557926)
+[2018.10.23-11.00.26:576][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090252 seconds
+[2018.10.23-11.00.26:582][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.23-11.00.26:583][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.23-11.00.26:583][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.23-11.00.27:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.23-11.00.27:527][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.23-11.00.27:673][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:673][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:674][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:675][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.27:837][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.23-11.00.27:877][  0]LogOcInput: OculusInput pre-init called
+[2018.10.23-11.00.27:941][  0]LogEngine: Initializing Engine...
+[2018.10.23-11.00.27:942][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-11.00.27:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.23-11.00.27:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-11.00.27:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.23-11.00.27:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-11.00.28:167][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.23-11.00.28:182][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.23-11.00.28:194][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.23-11.00.28:211][  0]LogInit: FAudioDevice initialized.
+[2018.10.23-11.00.28:211][  0]LogNetVersion: Set ProjectVersion to 1.0. Version Checksum will be recalculated on next use.
+[2018.10.23-11.00.28:282][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Rohit/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.23-11.00.28:295][  0]LogInit: Texture streaming: Enabled
+[2018.10.23-11.00.28:313][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.23-11.00.28:329][  0]LogInit: Transaction tracking system initialized
+[2018.10.23-11.00.28:353][  0]BlueprintLog: New page: Editor Load
+[2018.10.23-11.00.28:436][  0]LocalizationService: Localization service is disabled
+[2018.10.23-11.00.28:707][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.23-11.00.28:707][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.23-11.00.28:707][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.23-11.00.28:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-11.00.28:835][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/' took 0.01s
+[2018.10.23-11.00.28:835][  0]SourceControl: Source control is disabled
+[2018.10.23-11.00.28:835][  0]Cmd: MAP LOAD FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-11.00.28:835][  0]LightingResults: New page: Lighting Build
+[2018.10.23-11.00.28:838][  0]MapCheck: New page: Map Check
+[2018.10.23-11.00.28:838][  0]LightingResults: New page: Lighting Build
+[2018.10.23-11.00.29:283][  0]LogAIModule: Creating AISystem for world Map_TechDemo
+[2018.10.23-11.00.29:295][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-11.00.29:319][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-11.00.29:394][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.596ms to complete.
+[2018.10.23-11.00.29:394][  0]LogFileHelpers: Loading map 'Map_TechDemo' took 0.558
+[2018.10.23-11.00.29:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.00.29:506][  0]LogCollectionManager: Loaded 0 collections in 0.002874 seconds
+[2018.10.23-11.00.29:565][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Collections/' took 0.01s
+[2018.10.23-11.00.29:565][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Developers/Rohit/Collections/' took 0.01s
+[2018.10.23-11.00.29:565][  0]LogFileCache: Scanning file cache for directory 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Collections/' took 0.01s
+[2018.10.23-11.00.29:565][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.23-11.00.29:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2572 classes and 603 folders.
+[2018.10.23-11.00.29:582][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.23-11.00.29:640][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.23-11.00.29:644][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.23-11.00.29:722][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.23-11.00.29:724][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.23-11.00.29:730][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.23-11.00.29:812][  0]LogRenderer: Reallocating scene render targets to support 1144x536 Format 10 NumSamples 1 (Frame:1).
+[2018.10.23-11.00.29:943][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.23-11.00.29:943][  0]LogLoad: (Engine Initialization) Total time: 8.33 seconds
+[2018.10.23-11.00.29:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.23-11.00.29:988][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.23-11.00.30:001][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-11.00.30:021][  1]LogAssetRegistry: Asset discovery search completed in 4.4520 seconds
+[2018.10.23-11.00.30:023][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.23-11.00.30:023][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.10.23-11.00.31:491][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-11.00.36:249][667]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-11.00.36:255][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Binoculars/BPC_TagWidget.BPC_TagWidget
+[2018.10.23-11.00.36:710][667]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.23-11.00.37:454][667]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.23-11.00.37:583][668]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.23-11.01.13:570][789]LogSlate: Window 'BPC_TagWidget' being destroyed
+[2018.10.23-11.01.15:449][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Binoculars/BP_Binoculars.BP_Binoculars
+[2018.10.23-11.01.19:602][453]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Interfaces/BPI_CameraControl.BPI_CameraControl
+[2018.10.23-11.01.30:759][725]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/TestAgents/BP_GuardAI.BP_GuardAI
+[2018.10.23-11.01.33:144][922]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.10.23-11.10.19:115][528]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.10.19:196][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:197][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:216][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:217][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.19:408][543]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlABE843DB442764475C5307B5857930CF.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.10.26:106][330]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.10.26:611][331]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter28A774554DD1E8277508E88D5CF8C187.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.10.37:185][585]LogSlate: Took 0.005268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.23-11.10.44:375][437]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.10.44:468][437]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_6:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.10.44:469][437]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.10.44:629][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:629][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:645][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:645][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.44:783][440]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlA2C102974D385D7D857FF1BAF0807EB3.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.10.47:908][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.10.48:143][782]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemoD1CE1EE640800CB0D812A6A3C35D2E8A.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.10.48:168][782]LogFileHelpers: Saving map 'Map_TechDemo' took 0.347
+[2018.10.23-11.10.48:253][782]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter073034ED4D5A178C189915B48A82EFF1.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.10.51:875][213]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.10.52:518][245]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter8878CB644B6C0FE25669338E32CCCF2B.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.10.57:520][840]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.10.57:572][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:573][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:588][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:589][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.10.57:816][862]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlF3268ADE45B568B4C3CFE996C944065C.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.06:998][946]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.11.07:058][946]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] Interface ' RetrieveCameraComponent ' is already implemented as a function graph but is expected as an event. Remove the function graph and reimplement as an event.
+[2018.10.23-11.11.07:081][946]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] [0645.47] Compile of BP_PlayerCharacter successful, but with 1 Warning(s) [in 81 ms] (/Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter)
+[2018.10.23-11.11.07:085][946]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.11.07:239][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.07:248][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.07:369][956]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlED104C9C48331E640C1EBE9FB6E43ABF.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.10:749][360]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.11.10:835][360]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.11.10:988][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.10:996][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.11:065][364]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControlDA50156B44DD674A8B2559B50B8A61A0.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.12:418][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.11.12:621][510]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemo8AF0786249BA0AB49ECB1EAF91793431.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.11.12:637][510]LogFileHelpers: Saving map 'Map_TechDemo' took 0.305
+[2018.10.23-11.11.12:756][510]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterFB6216CF48323A9FBB7D2B990BB84E9C.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.11.21:739][515]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.574 s
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: 
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2364]
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: Graph RetrieveCameraComponent already exists: EdGraph /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter:RetrieveCameraComponent
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: Stack: 
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff556671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff553a0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff553bb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50adaad4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50ad484c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50ad34c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4c6e017a UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4c6de7cf UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4c6dd83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50b2fe83 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff50b047eb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4f39a832 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4db62fc9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4db41be6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff4dafb8df UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54e89c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54c794c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54d11db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54cf7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff54ceb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff7323d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff73230270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff7323f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff7322c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff95626cc1 USER32.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff95626693 USER32.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff73240646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b35b3c UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b35bba UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b43dac UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007ff747b45aaa UE4Editor.exe!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff94c43034 KERNEL32.DLL!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: [Callstack] 0x00007fff95c71461 ntdll.dll!UnknownFunction []
+[2018.10.23-11.11.21:739][515]LogOutputDevice: Error: 
+[2018.10.23-11.11.21:740][515]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.23-11.11.22:081][515]LogStats:                    SendNewReport -  0.341 s
+[2018.10.23-11.11.22:081][515]LogStats:             FDebug::EnsureFailed -  0.917 s
+[2018.10.23-11.11.30:854][565]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.11.30:902][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.30:912][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.11.31:115][585]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControl2F0B978C40FA441766B50992B3F7F875.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.11.31:990][677]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterFA31B50941B9CAEE93C5C3A9ABB8E144.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.11.35:572][ 66]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.10.23-11.11.37:190][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerController.BP_PlayerController
+[2018.10.23-11.11.42:304][762]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerHUD.BP_PlayerHUD
+[2018.10.23-11.12.10:567][967]BlueprintLog: New page: Compile BP_PlayerHUD
+[2018.10.23-11.12.10:869][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Blueprints/Player/BP_PlayerHUD" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerHUD.uasset" SILENT=true
+[2018.10.23-11.12.10:917][970]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerHUD76A7AC484624B1AA316884A66E091B1E.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerHUD.uasset'
+[2018.10.23-11.12.15:511][518]BlueprintLog: New page: Compile BP_PlayerController
+[2018.10.23-11.12.16:027][558]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerControllerC547448A4D40848E5F1B968649D79CB5.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerController.uasset'
+[2018.10.23-11.12.18:540][858]BlueprintLog: New page: Compile BP_PlayerHUD
+[2018.10.23-11.12.18:822][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Blueprints/Player/BP_PlayerHUD" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerHUD.uasset" SILENT=true
+[2018.10.23-11.12.18:858][859]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerHUD99B7017E4913A5BAFB6F4BBA1615044F.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerHUD.uasset'
+[2018.10.23-11.12.29:186][ 79]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter55DC1FC94A799A951684EEA54FA32535.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.12.38:723][197]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.12.39:149][198]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter948514BD445A099D3EE8F192262740DC.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.13.57:500][536]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.13.57:711][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.13.57:712][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.13.57:728][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.13.57:728][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.13.58:004][545]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_BinocularsEB46535C40D97D058F980C897389FFB1.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.14.48:288][530]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.14.48:525][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.14.48:526][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.14.48:543][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.14.48:544][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.14.48:791][537]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars8C4364BC49A20CC002A0DAB7CAAE1104.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.16.00:403][ 87]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.16.00:739][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.00:740][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.00:759][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.00:760][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.18:289][157]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.16.18:608][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.18:609][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.18:627][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.18:628][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_115.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.18:726][157]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars056F3F0B44A1F4E2DD5414B0E12FA5F2.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.16.47:210][450]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.16.47:503][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.47:504][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.47:524][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.47:525][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_123.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.16.48:048][486]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars80F64DAB49B0700CFEA734A50619983D.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.17.41:955][563]LogEditorTransaction: Undo Delete current selection
+[2018.10.23-11.17.41:965][563]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.BP_PlayerCharacter_C_0.Arrow) Component already registered.
+[2018.10.23-11.17.41:967][563]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.BP_PlayerCharacter_C_0.CharMoveComp) Component already registered.
+[2018.10.23-11.17.41:969][563]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.BP_PlayerCharacter_C_0.CharacterMesh0) Component already registered.
+[2018.10.23-11.19.05:075][369]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.19.05:371][369]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.05:372][369]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_133.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.05:398][369]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.05:400][369]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_137.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.05:560][369]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars9012B8DB477EFB55089860836E9EC2B7.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.19.13:072][ 87]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars8D0FEB2547FE3246502F2BAD00B92B35.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.19.23:907][159]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.19.24:177][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.24:178][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_141.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.24:199][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.24:200][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_145.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.19.24:311][159]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars26BCEC584089A98AC5870CA43BE2B78E.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.20.29:557][743]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.20.32:313][966]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.20.32:879][967]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter6D90BC894B5C28884DFDB5AE373902EC.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.20.45:157][318]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.20.45:300][318]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_8:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.20.45:301][318]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.20.45:500][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_121.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.20.45:501][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_187.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.20.45:520][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_125.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.20.45:521][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_193.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.20.46:653][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.20.46:924][427]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemoCBEBB8EB407AB1FBF26B31B2DA142539.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.20.46:946][427]LogFileHelpers: Saving map 'Map_TechDemo' took 0.402
+[2018.10.23-11.20.46:967][427]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControl4EEFA26B4D38953CCC080C8C7C185C73.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.20.47:060][427]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter3261EAA8458E1BF87915EB8F7A3EFF3E.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.21.22:966][564]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.21.23:250][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_129.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.21.23:252][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_197.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.21.23:306][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_133.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.21.23:309][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_201.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.21.23:450][564]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars5E36C7ED40A8450B1200FE82251EE822.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.21.51:805][344]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.21.52:328][345]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter03671FA74EE67B667DD9C5A770D6D7A9.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.21.56:884][874]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.21.57:415][875]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterA71642BC4B468D4B45C03AA3D3BC8EA4.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.23.04:051][642]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.23.04:411][642]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter2BB8608F46EBE25AA8C42693A44AA42A.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.24.59:392][865]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.24.59:893][866]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter821B99684E48DD739E0C70B702FD4FFD.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.25.21:496][382]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.25.22:031][382]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter3D9978D242927C3D3ADB5CAC922BAA73.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.25.38:102][ 52]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterEE9E626B480811F3BCF483A3C87B8A0F.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.26.52:074][186]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.26.52:380][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_201.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.26.52:382][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_279.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.26.52:403][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_205.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.26.52:405][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_283.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.26.52:530][186]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars66D7BF4C44EB4F7AB957D8955DFCF7EC.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.27.18:875][ 97]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.23-11.27.22:665][525]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.27.22:773][525]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_276 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.27.22:989][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_289.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.27.23:000][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_291.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.27.23:046][525]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControl4E3BCB5E415F1514563805A2DA1BE2E4.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.27.24:585][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.27.24:845][576]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemoA5A0D2B54EDF5D9ABA75558144FE5195.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.27.24:867][576]LogFileHelpers: Saving map 'Map_TechDemo' took 0.515
+[2018.10.23-11.27.24:984][576]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterAA3882EC4D648E12723838A1C493AA2B.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.27.47:061][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.10.23-11.30.03:281][212]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.30.03:551][212]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_295.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.03:552][212]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.03:580][212]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_299.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.03:581][212]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.11:608][954]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.30.11:911][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_303.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.11:913][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.11:930][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_307.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.11:931][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.18:591][499]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.30.18:850][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_311.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.18:851][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.18:868][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_315.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.18:869][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.28:353][434]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterF69E36794EE70ABCE0ECC58C5189185D.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.30.30:444][639]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars5E1D91464425BF137C908AB80588C9FB.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.30.36:315][207]BlueprintLog: New page: Compile BPI_CameraControl
+[2018.10.23-11.30.36:413][207]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_7:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_294 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.30.36:415][207]LogActor: Warning: BP_Binoculars_C /Engine/Transient.World_11:PersistentLevel.Binoculars_GEN_VARIABLE_BP_Binoculars_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.10.23-11.30.36:598][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_323.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.36:600][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.36:615][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.36:616][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_329.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.30.36:741][208]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BPI_CameraControl34DA75C740627C808D4662A8E03350E3.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Interfaces/BPI_CameraControl.uasset'
+[2018.10.23-11.30.37:862][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Binoculars/Maps/Map_TechDemo" FILE="F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.23-11.30.38:113][312]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/Map_TechDemo9CCABFA4474E400306D554B411B8A42F.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Maps/Map_TechDemo.umap'
+[2018.10.23-11.30.38:133][312]LogFileHelpers: Saving map 'Map_TechDemo' took 0.372
+[2018.10.23-11.30.38:247][312]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter20E461E845376EDC7AACA8B4F07A28E9.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.32.53:573][665]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterC4E0FBB84FD30A5CB8B533A88EAEC0A0.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.33.59:205][471]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.33.59:974][494]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter6AB4EF7F4B7EC7C68918678C4765F4C8.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.34.31:143][799]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.34.31:749][800]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter58409CE943E1713865AC0A871B466B3B.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.34.56:051][341]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.34.56:573][342]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterD3FF1267469293874D54E7A4EF6B8F13.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.37.03:132][791]LogEditorTransaction: Undo Move Node
+[2018.10.23-11.37.03:141][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_361.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.03:142][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.03:507][823]LogEditorTransaction: Undo Move Node
+[2018.10.23-11.37.03:516][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_363.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.03:518][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.04:053][873]LogEditorTransaction: Undo Move Node
+[2018.10.23-11.37.04:061][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_365.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.04:063][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.04:597][929]LogEditorTransaction: Undo Create Pin Link
+[2018.10.23-11.37.04:605][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.04:606][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_367.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.05:257][999]LogEditorTransaction: Undo Move Node
+[2018.10.23-11.37.05:264][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_369.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.05:265][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.13:951][979]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.37.14:259][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_371.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.14:261][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.14:280][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_73.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.14:281][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_375.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.37.14:527][980]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars484CC0CD465F0D7D997CA19F37B25765.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.39.46:475][677]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.39.46:752][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.39.46:753][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_379.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.39.46:774][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.39.46:775][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_383.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.39.46:994][678]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_BinocularsBCCEBB954CB4E9380A3D1C9CA2733D30.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.41.30:491][264]BlueprintLog: New page: Compile BP_Binoculars
+[2018.10.23-11.41.30:780][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_85.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.41.30:781][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_387.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.41.30:804][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.41.30:805][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Binoculars_C_CHILDACTOR_391.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.23-11.41.31:040][267]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars1B01175448497A576017BFB20767D558.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.42.02:290][789]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars64636E824D061122D2B4A4834CD9629B.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.42.26:351][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.23-11.43.53:083][474]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.43.53:125][474]LogProperty: Warning: Serialized Class /Script/Engine.ChildActorComponent for a property of BlueprintGeneratedClass /Game/Binoculars/Blueprints/Binoculars/BP_Binoculars.BP_Binoculars_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter_C:Binoculars
+    Item = ChildActorComponent /Engine/Transient.World_11:PersistentLevel.REINST_BP_PlayerCharacter_C_0.TRASH_ChildActorComponent_99
+[2018.10.23-11.43.53:127][474]LogProperty: Warning: Serialized Class /Script/Engine.ChildActorComponent for a property of BlueprintGeneratedClass /Game/Binoculars/Blueprints/Binoculars/BP_Binoculars.BP_Binoculars_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter_C:Binoculars
+    Item = ChildActorComponent /Engine/Transient.World_7:PersistentLevel.REINST_BP_PlayerCharacter_C_0.TRASH_ChildActorComponent_94
+[2018.10.23-11.43.53:650][475]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterD3F95B6B49A81013FD016E9D57318763.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.45.37:702][294]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.45.38:259][295]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter45144D2944453FBED8CA8F8FDF132366.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.45.40:040][370]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter0ECBEC2D470A864C97B1AC84702DA971.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.45.51:185][565]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.45.51:865][570]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterBEA3771C4FBB46DBCC79DD9823424A91.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.46.56:528][349]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.46.57:289][377]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter98DFA603444A9CC892D0ED85EB106D2C.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.49.00:129][718]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.49.00:565][720]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterA4B15BB642BFC513694640917727FE64.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.49.45:850][467]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.49.46:313][470]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter66E35D2D495B77297713E0B52DD72BFD.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.49.51:733][983]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.49.52:191][984]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacter495D24CF4C04DABE1CDC2CABB1485232.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.50.08:380][794]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.50.08:896][795]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterCBDBECF246182AE463D1388EF419E2A5.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.50.17:808][623]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2018.10.23-11.50.20:533][842]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_Binoculars217E9A1C4ADC119F7E114B83E7360388.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Binoculars/BP_Binoculars.uasset'
+[2018.10.23-11.50.20:623][842]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterE9A54B904B7B2A7D7737B48F0898A7F2.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.51.42:548][695]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.23-11.51.48:699][409]LogSavePackage: Moving 'F:/GitHubProjects/UnrealEngine--Binoculars/Saved/BP_PlayerCharacterABCF9CC043A53D1A6EABD9A09847850D.tmp' to 'F:/GitHubProjects/UnrealEngine--Binoculars/Content/Binoculars/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2018.10.23-11.51.54:256][ 46]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.23-11.51.58:067][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.51.58:067][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-11.51.58:082][312]PIE: New page: PIE session: Map_TechDemo (Oct 23, 2018, 10:51:58 PM)
+[2018.10.23-11.51.58:082][312]LogPlayLevel: Creating play world package: /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo
+[2018.10.23-11.51.58:101][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019609s)
+[2018.10.23-11.51.58:102][312]LogAIModule: Creating AISystem for world Map_TechDemo
+[2018.10.23-11.51.58:103][312]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2018.10.23-11.51.58:103][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo to /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo.Map_TechDemo (0.021019s)
+[2018.10.23-11.51.58:147][312]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.23-11.51.58:159][312]LogInit: FAudioDevice initialized.
+[2018.10.23-11.51.58:167][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.51.58:270][312]LogLoad: Game class is 'BP_GameMode_C'
+[2018.10.23-11.51.58:280][312]LogWorld: Bringing World /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo.Map_TechDemo up for play (max tick rate 0) at 2018.10.23-17.21.58
+[2018.10.23-11.51.58:285][312]LogWorld: Bringing up level for play took: 0.011433
+[2018.10.23-11.51.58:315][312]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.10.23-11.51.58:322][312]PIE: Play in editor start time for /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo 1.218
+[2018.10.23-11.51.58:322][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.51.58:359][312]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.23-11.52.12:839][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.52.12:843][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.52.12:897][343]LogSlate: Window 'Binoculars Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.23-11.52.12:932][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.23-11.52.12:932][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.52.13:025][344]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.23-11.52.14:390][407]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.10.23-11.52.18:803][864]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Binoculars/Blueprints/Binoculars/BP_Binoculars.BP_Binoculars
+[2018.10.23-11.52.22:463][207]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.23-11.52.23:290][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.23-11.52.23:388][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.52.23:389][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.23-11.52.23:390][253]PIE: New page: PIE session: Map_TechDemo (Oct 23, 2018, 10:52:23 PM)
+[2018.10.23-11.52.23:391][253]LogPlayLevel: Creating play world package: /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo
+[2018.10.23-11.52.23:459][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068237s)
+[2018.10.23-11.52.23:462][253]LogAIModule: Creating AISystem for world Map_TechDemo
+[2018.10.23-11.52.23:463][253]LogPlayLevel: PIE: World Init took: (0.002978s)
+[2018.10.23-11.52.23:463][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo to /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo.Map_TechDemo (0.071883s)
+[2018.10.23-11.52.23:532][253]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.23-11.52.23:544][253]LogInit: FAudioDevice initialized.
+[2018.10.23-11.52.23:550][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.52.23:589][253]LogLoad: Game class is 'BP_GameMode_C'
+[2018.10.23-11.52.23:595][253]LogWorld: Bringing World /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo.Map_TechDemo up for play (max tick rate 0) at 2018.10.23-17.22.23
+[2018.10.23-11.52.23:596][253]LogWorld: Bringing up level for play took: 0.006066
+[2018.10.23-11.52.23:616][253]PIE: Play in editor start time for /Game/Binoculars/Maps/UEDPIE_0_Map_TechDemo 0.512
+[2018.10.23-11.52.23:619][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.53.06:626][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.53.06:626][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-11.53.06:660][639]LogSlate: Window 'Binoculars Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.23-11.53.06:706][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.23-11.53.06:707][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel' has LevelScriptBlueprint '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo' with GeneratedClass '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo_C' with ClassGeneratedBy '/Game/Binoculars/Maps/Map_TechDemo.Map_TechDemo:PersistentLevel.Map_TechDemo'
+[2018.10.23-11.53.06:812][640]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.23-11.53.14:154][116]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.23-11.53.14:404][119]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Binoculars
+[2018.10.23-11.53.14:404][119]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.23-11.53.14:404][119]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.23-11.53.14:404][119]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.23-11.53.14:413][119]LogTemp: BranchPath = ROHIT-PC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = ROHIT-PC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.23-11.53.14:450][121]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Rohit\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.23-11.53.24:770][ 84]LogSlate: Window 'Binoculars - Unreal Editor' being destroyed
+[2018.10.23-11.53.24:998][ 85]Cmd: QUIT_EDITOR
+[2018.10.23-11.53.25:381][ 85]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.23-11.53.25:398][ 85]LogExit: Preparing to exit.
+[2018.10.23-11.53.26:579][ 85]LogExit: Editor shut down
+[2018.10.23-11.53.26:580][ 85]LogExit: Transaction tracking system shut down
+[2018.10.23-11.53.27:222][ 85]LogExit: Object subsystem successfully closed.
+[2018.10.23-11.53.27:247][ 85]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.23-11.53.27:255][ 85]LogD3D11RHI: Shutdown
+[2018.10.23-11.53.27:255][ 85]LogD3D11RHI: CleanupD3DDevice
+[2018.10.23-11.53.27:258][ 85]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (618)
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.23-11.53.27:286][ 85]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.23-11.53.27:289][ 85]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.23-11.53.27:289][ 85]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.23-11.53.27:289][ 85]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.23-11.53.27:290][ 85]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.23-11.53.27:291][ 85]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.23-11.53.28:460][ 85]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.23-11.53.28:461][ 85]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.23-11.53.28:461][ 85]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.23-11.53.28:461][ 85]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.23-11.53.28:461][ 85]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.23-11.53.28:462][ 85]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.23-11.53.28:462][ 85]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.23-11.53.28:463][ 85]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.23-11.53.28:463][ 85]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.23-11.53.28:463][ 85]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.23-11.53.28:463][ 85]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.23-11.53.28:464][ 85]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.23-11.53.28:464][ 85]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.23-11.53.28:464][ 85]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.23-11.53.28:465][ 85]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.23-11.53.28:468][ 85]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.23-11.53.28:469][ 85]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.23-11.53.28:470][ 85]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.23-11.53.28:470][ 85]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.23-11.53.28:471][ 85]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.23-11.53.28:471][ 85]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.23-11.53.28:471][ 85]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.23-11.53.28:527][ 85]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.23-11.53.28:527][ 85]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.23-11.53.28:527][ 85]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.23-11.53.28:527][ 85]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.23-11.53.28:528][ 85]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.23-11.53.28:528][ 85]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.23-11.53.28:529][ 85]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.23-11.53.28:529][ 85]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.23-11.53.28:530][ 85]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.23-11.53.28:530][ 85]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.23-11.53.28:553][ 85]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.23-11.53.28:554][ 85]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.23-11.53.28:554][ 85]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.23-11.53.28:554][ 85]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.23-11.53.28:554][ 85]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.23-11.53.28:554][ 85]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.23-11.53.28:554][ 85]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.23-11.53.28:555][ 85]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.23-11.53.28:556][ 85]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.23-11.53.28:556][ 85]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.23-11.53.28:556][ 85]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.23-11.53.28:556][ 85]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.23-11.53.28:556][ 85]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.23-11.53.28:578][ 85]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.23-11.53.28:578][ 85]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.23-11.53.28:578][ 85]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.23-11.53.28:578][ 85]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.23-11.53.28:578][ 85]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.23-11.53.28:579][ 85]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.23-11.53.28:579][ 85]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.23-11.53.28:579][ 85]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.23-11.53.28:582][ 85]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.23-11.53.28:582][ 85]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.23-11.53.28:582][ 85]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.23-11.53.28:582][ 85]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.23-11.53.28:582][ 85]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.23-11.53.28:582][ 85]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.23-11.53.28:583][ 85]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.23-11.53.28:584][ 85]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.23-11.53.28:584][ 85]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.23-11.53.28:584][ 85]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.23-11.53.28:594][ 85]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.23-11.53.28:595][ 85]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.23-11.53.28:595][ 85]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.23-11.53.28:595][ 85]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.23-11.53.28:596][ 85]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.23-11.53.28:596][ 85]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.23-11.53.28:596][ 85]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.23-11.53.28:596][ 85]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.23-11.53.28:596][ 85]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.23-11.53.28:597][ 85]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.23-11.53.28:598][ 85]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.23-11.53.28:699][ 85]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.23-11.53.28:800][ 85]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.23-11.53.28:801][ 85]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.23-11.53.28:801][ 85]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.23-11.53.28:801][ 85]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.23-11.53.28:801][ 85]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.23-11.53.28:802][ 85]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.23-11.53.28:803][ 85]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.23-11.53.28:803][ 85]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.23-11.53.28:803][ 85]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.23-11.53.28:803][ 85]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.23-11.53.28:803][ 85]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.23-11.53.28:803][ 85]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.23-11.53.28:805][ 85]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.23-11.53.28:811][ 85]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.23-11.53.28:812][ 85]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.23-11.53.28:812][ 85]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.23-11.53.28:812][ 85]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.23-11.53.28:812][ 85]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.23-11.53.28:814][ 85]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.23-11.53.28:814][ 85]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.23-11.53.28:815][ 85]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.23-11.53.28:892][ 85]LogDerivedDataCache: Shutdown
+[2018.10.23-11.53.28:892][ 85]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.23-11.53.28:892][ 85]LogXGEController: Cleaning working directory: C:/Users/Rohit/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.23-11.53.28:893][ 85]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.23-11.53.28:896][ 85]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.23-11.53.28:896][ 85]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.23-11.53.28:901][ 85]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.23-11.53.28:901][ 85]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.23-11.53.28:934][ 85]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.23-11.53.28:935][ 85]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.23-11.53.28:935][ 85]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.23-11.53.28:935][ 85]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.23-11.53.28:935][ 85]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.23-11.53.28:958][ 85]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.23-11.53.28:958][ 85]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.23-11.53.28:958][ 85]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA615E5C3-4610-D577-D498-2AA7055411F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=207490d14633a12c7c1977a0b44dabee%7C7b8e2bb8b466411588cadfe08ecd7de9%7C61e4c100-ac35-48f5-b2e6-89807693b8fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.23-11.53.28:974][ 85]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.23-11.53.28:975][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.23-11.53.28:976][ 85]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.23-11.53.28:976][ 85]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.23-11.53.28:978][ 85]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.23-11.53.28:983][ 85]LogExit: Exiting.
+[2018.10.23-11.53.29:061][ 85]Log file closed, 10/23/18 17:23:29
