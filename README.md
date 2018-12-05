@@ -4,7 +4,7 @@ Binoculars with support for tagging enemies and visualization of occluded object
 
 Created using blueprints in Unreal Engine v4.20.
 
-**Preview Video:** https://www.youtube.com/watch?v=BHsoVMXIEfo
+**Preview:** https://www.youtube.com/watch?v=BHsoVMXIEfo
 
 Enemy Tagging System Design Process: https://unrealpossibilities.blogspot.com/2018/10/unreal-engine-experiments-enemy-tagging.html
 
