@@ -2,7 +2,7 @@
 
 Binoculars with support for tagging enemies and visualization of occluded objects.
 
-Created using blueprints in Unreal Engine v4.21.
+Created using blueprints in Unreal Engine v4.22.
 
 **Preview:** https://www.youtube.com/watch?v=BHsoVMXIEfo
 
